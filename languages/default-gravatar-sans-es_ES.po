@@ -1,0 +1,30 @@
+# Copyright (C) 2012 Raúl Parralejo
+# This file is distributed under the same license as the Default Gravatar Sans package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Default Gravatar Sans 1.0\n"
+"Report-Msgid-Bugs-To: http://raohmaru.com\n"
+"POT-Creation-Date: 2012-04-10 20:00-0000\n"
+"PO-Revision-Date: 2012-04-10 20:25-0000\n"
+"Last-Translator: Raohmaru <namoracon@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: default-gravatar-sans.php:110
+msgid "Local Avatar URL"
+msgstr "URL del Avatar local"
+
+#: default-gravatar-sans.php:136
+msgid "It's recommended to use an image that fits the avatar size of your theme."
+msgstr "Se recomienda utilizar una imagen del tamaño adecuado según el tema."
+
+#: default-gravatar-sans.php:165
+msgid "Local Avatar"
+msgstr "Avatar local"
+
