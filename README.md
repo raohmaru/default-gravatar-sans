@@ -16,6 +16,13 @@ N/A.
 
 ## Changelog
 
+### 1.1.1
+- Bug fixes.
+
+### 1.1
+- Compatible with WordPress 4.8.
+- Support for high resolution avatar images
+
 ### 1.0
 - Initial release.
 

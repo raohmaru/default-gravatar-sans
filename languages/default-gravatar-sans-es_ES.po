@@ -3,9 +3,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Default Gravatar Sans 1.0\n"
-"Report-Msgid-Bugs-To: http://raohmaru.com\n"
-"POT-Creation-Date: 2012-04-10 20:00-0000\n"
-"PO-Revision-Date: 2012-04-10 20:25-0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-06 20:18+0100\n"
+"PO-Revision-Date: 2017-08-06 20:21+0100\n"
 "Last-Translator: Raohmaru <namoracon@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -16,15 +16,21 @@ msgstr ""
 "X-Poedit-Language: Spanish\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: default-gravatar-sans.php:110
+#: ../default-gravatar-sans.php:183
 msgid "Local Avatar URL"
-msgstr "URL del Avatar local"
+msgstr "URL del avatar local"
 
-#: default-gravatar-sans.php:136
-msgid "It's recommended to use an image that fits the avatar size of your theme."
+#: ../default-gravatar-sans.php:208
+msgid "It's recommended to use images that fits the avatar size of your theme."
 msgstr "Se recomienda utilizar una imagen del tamaño adecuado según el tema."
 
-#: default-gravatar-sans.php:165
+#: ../default-gravatar-sans.php:210
+msgid "High resolution image (2x)"
+msgstr "Imagen de alta resolución (2x)"
+
+#: ../default-gravatar-sans.php:252
 msgid "Local Avatar"
 msgstr "Avatar local"
 
+#~ msgid "Blank"
+#~ msgstr "Ninguno"

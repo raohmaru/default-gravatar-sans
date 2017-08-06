@@ -2,17 +2,16 @@
 Contributors: raohmaru
 Tags: avatar, gravatar, users, comments
 Requires at least: 3.0
-Tested up to: 3.3.2
-Stable tag: 1.0
+Tested up to: 4.8.1
+Stable tag: 1.1.1
 License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Disables Gravatar.com avatars, and allows one local default avatar image for users without avatar in his profile.
+Disables Gravatar.com avatar, and allows one local default avatar image for users without avatar in his profile.
 
 == Description ==
 
-Disables default Gravatar.com avatars and redirections to gravatar.com servers, and allows one local default avatar image for users without avatar in his profile. To be used alongside [Simple Local Avatars](http://www.get10up.com/plugins/simple-local-avatars-wordpress/).
-
-Based on the plugin [Disable Default Avatars](http://wordpress.stackexchange.com/questions/17413/removing-gravatar-com-support-for-wordpress-and-simple-local-avatars) by [TheDeadMedic](http://wordpress.stackexchange.com/users/1685/thedeadmedic).
+Disables default Gravatar.com avatar and redirection to gravatar.com servers, and allows to define a local default avatar image for users without avatar in his profile. To be used alongside plugin [Simple Local Avatars](https://wordpress.org/plugins/simple-local-avatars/).
 
 == Installation ==
 
@@ -30,10 +29,12 @@ N/A.
 
 == Changelog ==
 
-= 1.0 =
-* Initial release.
+=== 1.1.1 ===
+- Bug fixes.
 
-== Upgrade Notice ==
+=== 1.1 ===
+- Compatible with WordPress 4.8.
+- Support for high resolution avatar images
 
-= 1.0 =
-Public release.
+=== 1.0 ===
+- Initial release.
