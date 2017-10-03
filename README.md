@@ -1,6 +1,6 @@
 # Default Gravatar Sans
 
-Disables default Gravatar.com avatar and redirection to gravatar.com servers, and allows to define a local default avatar image for users without avatar in his profile. To be used alongside plugin [Simple Local Avatars](https://wordpress.org/plugins/simple-local-avatars/).
+Disables default Gravatar.com avatar and redirection to gravatar.com servers, and allows to define a local default avatar image for users without avatar in his profile.
 
 Plugin website: https://wordpress.org/plugins/default-gravatar-sans/
 
@@ -15,6 +15,9 @@ Plugin website: https://wordpress.org/plugins/default-gravatar-sans/
 N/A.
 
 ## Changelog
+
+### 1.1.2
+- Bug fixes.
 
 ### 1.1.1
 - Bug fixes.

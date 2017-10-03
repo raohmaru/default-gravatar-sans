@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Default Gravatar Sans
  * Plugin URI: http://raohmaru.com/blog/wordpress/default-gravatar-sans/
- * Description: Disables default Gravatar.com avatar and redirection to gravatar.com servers, and allows to define a local default avatar image for users without avatar in his profile. To be used alongside Simple Local Avatars.
- * Version: 1.1.1
+ * Description: Disables default Gravatar.com avatar and redirection to gravatar.com servers, and allows to define a local default avatar image for users without avatar in his profile.
+ * Version: 1.1.2
  * Author: Raohmaru
  * Author URI: http://raohmaru.com
  * License: GPLv3 or later
@@ -90,7 +90,7 @@ if ( ! function_exists( 'get_avatar' ) ) {
 
 		$class = array( 'avatar', 'avatar-' . (int) $args['size'], 'photo' );
 
-		if ( ! $args['found_avatar'] || $args['force_default'] ) {
+		if ( $args['force_default'] ) {
 			$class[] = 'avatar-default';
 		}
 
